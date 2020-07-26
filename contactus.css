@@ -1,0 +1,44 @@
+.contact{
+    color:rgb(255, 0, 234);
+    font-size:x-large;
+}
+
+#bbt:hover{
+     background-color:rgb(255, 0, 234)!important;
+     transform: scale(1.05);
+     border-radius: 20px;
+     color:white;
+     box-shadow: 1px 2px 2px 1px darkgrey;
+}
+.fname:hover{
+      border-color:rgb(255, 0, 234);
+      box-shadow: 1px 1px rgb(255, 0, 234);   
+}
+.lname:hover{
+    border-color:rgb(255, 0, 234);
+    box-shadow: 1px 1px rgb(255, 0, 234);   
+}
+.email:hover{
+    border-color:rgb(255, 0, 234);
+    box-shadow: 1px 1px rgb(255, 0, 234);   
+}
+.phone:hover{
+    border-color:rgb(255, 0, 234);
+    box-shadow: 1px 1px rgb(255, 0, 234);   
+}
+.msg:hover{
+    border-color:rgb(255, 0, 234);
+    box-shadow: 1px 1px rgb(255, 0, 234);   
+}
+.contactcard{
+    box-shadow: 1px 2px 2px 1px darkgrey;
+}
+.top{
+    margin-top: 60px;
+}
+@media only screen and (max-width: 600px) {
+    .top{
+      margin-top:-20px;
+    }
+  }
+  
