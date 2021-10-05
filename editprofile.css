@@ -15,7 +15,7 @@
   display: block;
   margin: auto;
   position: relative;height:670px;
-  width: 100%;backgrdound:red;
+  width: 100%;background:red;
 }
 
 .sttngs.tabordion input[name="sections"] {display:none;}
@@ -126,7 +126,7 @@ input, select, textarea {
 
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-  max-wridth: 600px;
+  max-width: 600px;
 }
 
 .tr .label{
